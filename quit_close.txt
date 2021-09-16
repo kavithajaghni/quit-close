@@ -1,0 +1,3 @@
+
+close() method closes the current window. 
+quit() method quits the driver instance, closing every associated window, which is opened
